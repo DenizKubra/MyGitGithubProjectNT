@@ -12,6 +12,8 @@ public class AtmProject {
         System.out.println("kubra branchi kodlarını yazdı.");
         //version kbr1
 
-    }
+        System.out.println("bir kısım kodlar");
+        //kbr2
 
+    }
 }
