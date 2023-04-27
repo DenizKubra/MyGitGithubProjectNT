@@ -18,6 +18,7 @@ public class AtmProject {
         System.out.println();
         //kbr3
         System.out.println();
+        //local de degisiklik yaptım.
 
     }
 }
